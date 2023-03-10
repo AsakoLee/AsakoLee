@@ -16,6 +16,6 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"/>
-  <a href="https://abrupt-thyme-129.notion.site/a211d5cb97e646bca4122f6c5c95de87">
+  <a href="https://asakolee.notion.site/a211d5cb97e646bca4122f6c5c95de87">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
